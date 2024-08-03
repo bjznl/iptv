@@ -71,7 +71,7 @@ http://[2409:8087:4c08:23::4:1011]:80/wh7f454c46tw1727013349_-1911665223/huaweic
 http://[2409:8087:4c08:23::4:1010]:80/wh7f454c46tw1730641107_-313879877/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226700/3.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
 http://[2409:8087:4c08:23::4:100b]:80/wh7f454c46tw1734305889_-1954262633/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226697/3.m3u8
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西
 http://[2409:8087:4c08:23::4:1012]:80/wh7f454c46tw1737568503_-654849142/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226708/3.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 http://[2409:8087:4c08:23::4:100d]:80/wh7f454c46tw1740405921_665097018/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226695/3.m3u8
@@ -93,13 +93,13 @@ http://[2409:8087:4c08:23::4:100d]:80/wh7f454c46tw1767107641_-1255279577/huaweic
 http://[2409:8087:4c08:23::4:13]:80/wh7f454c46tw1771393842_1570485278/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226243/3.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
 http://[2409:8087:4c08:23::4:1012]:80/wh7f454c46tw1775348549_-334224067/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226693/3.m3u8
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
 http://[2409:8087:4c08:23::4:d]:80/wh7f454c46tw1778416143_-260680120/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226169/3.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
 http://[2409:8087:4c08:23::4:100a]:80/wh7f454c46tw1782029648_3150150/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226574/3.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
 http://[2409:8087:4c08:23::4:100d]:80/wh7f454c46tw1785926337_-940645051/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226247/3.m3u8
-#EXTINF:-1 ,山西卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
 http://[2409:8087:4c08:23::4:e]:80/wh7f454c46tw1789788688_-1377793802/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226174/3.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://[2409:8087:4c08:23::4:100c]:80/wh7f454c46tw1794299910_-1823409598/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226721/2.m3u8
@@ -111,7 +111,7 @@ http://[2409:8087:4c08:23::4:13]:80/wh7f454c46tw1801285325_-650761315/huaweicdn.
 http://[2409:8087:4c08:23::4:100e]:80/wh7f454c46tw1804533959_173174334/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226570/2.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://[2409:8087:4c08:23::4:d]:80/wh7f454c46tw1808065807_-797261585/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226164/2.m3u8
-#EXTINF:-1 ,新疆卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
 http://[2409:8087:4c08:23::4:e]:80/wh7f454c46tw1811714444_1510026557/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226168/2.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
 http://[2409:8087:4c08:23::4:100c]:80/wh7f454c46tw1815255580_-341888053/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226171/3.m3u8
@@ -123,7 +123,7 @@ http://[2409:8087:4c08:23::4:11]:80/wh7f454c46tw1821537057_1506524140/huaweicdn.
 http://[2409:8087:4c08:23::4:f]:80/wh7f454c46tw1824807821_-1334999553/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226726/3.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视",延边卫视
 http://[2409:8087:4c08:23::2:1025]:80/wh7f454c46tw1827405995_1675677401/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226732/3.m3u8
-#EXTINF:-1 ,康巴卫视
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视",康巴卫视
 http://[2409:8087:4c08:23::2:1025]:80/wh7f454c46tw1830742245_371401774/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226725/3.m3u8
 #EXTINF:-1 ,环球奇观
 http://[2409:8087:4c08:23::4:a]:80/wh7f454c46tw1834126869_-1582764248/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226634/3.m3u8
@@ -131,13 +131,13 @@ http://[2409:8087:4c08:23::4:a]:80/wh7f454c46tw1834126869_-1582764248/huaweicdn.
 http://[2409:8087:4c02:23::c:100b]:80/wh7f454c46tw1616286607_1866235034/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226707/3.m3u8
 #EXTINF:-1 ,金鹰纪实
 http://[2409:8087:4c08:23::4:100a]:80/wh7f454c46tw1837129693_517142545/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226666/3.m3u8
-#EXTINF:-1 ,山东教育卫视
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="卫视",山东教育卫视
 http://[2409:8087:4c08:23::4:a]:80/wh7f454c46tw1840492462_59505214/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226652/3.m3u8
-#EXTINF:-1 ,金鹰卡通
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://[2409:8087:4c08:23::4:11]:80/wh7f454c46tw1843690840_1018242658/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226715/3.m3u8
 #EXTINF:-1 ,北京少儿
 http://[2409:8087:4c08:23::4:11]:80/wh7f454c46tw1846745804_438408469/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/3.m3u8
-#EXTINF:-1 ,三沙卫视
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
 http://[2409:8087:4c08:23::4:12]:80/wh7f454c46tw1850179162_1541030534/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226663/3.m3u8
 #EXTINF:-1 ,CGTN西班牙
 http://[2409:8087:4c08:23::4:b]:80/wh7f454c46tw1852931311_123650545/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226638/3.m3u8
