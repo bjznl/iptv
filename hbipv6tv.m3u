@@ -167,11 +167,11 @@ http://[2409:8087:4c08:23::8:100b]:80/wh7f454c46tw1885668717_1631957709/huaweicd
 http://[2409:8087:4c08:23::4:10]:80/wh7f454c46tw1888081524_-466645185/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226582/2.m3u8
 #EXTINF:-1 ,睛彩竞技
 http://[2409:8087:4c08:23::4:1010]:80/wh7f454c46tw1891583525_1691734779/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226580/2.m3u8
-#EXTINF:-1 ,CHC影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字",CHC影迷电影
 http://[2409:8087:4c08:23::2:31]:80/wh7f454c46tw1895157940_140775337/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226681/2.m3u8
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字",CHC动作电影
 http://[2409:8087:4c08:23::2:30]:80/wh7f454c46tw1899748890_-2106795639/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226673/2.m3u8
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="CHC家庭影院 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字",CHC家庭影院
 http://[2409:8087:4c08:23::2:26]:80/wh7f454c46tw1904457120_-1177690529/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676/2.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="数字",求索纪录
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
@@ -225,18 +225,3 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" group-title="数字",古装剧场 
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
